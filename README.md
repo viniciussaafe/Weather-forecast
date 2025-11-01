@@ -1,3 +1,7 @@
+![Previsão do tempo](https://png.pngtree.com/background/20230512/original/pngtree-moon-blue-moon-clouds-background-picture-image_2502069.jpg)
+
+
+
 # ☀️ Previsão do Tempo
 
 Este é um projeto simples de aplicação web para **visualizar a previsão do tempo** de qualquer cidade do mundo, utilizando a API **OpenWeatherMap**.
